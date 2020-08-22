@@ -1,3 +1,11 @@
+/*
+File Name:screen.js
+Author: Joseph Volpe
+ID: 301118010
+Site Name: null
+File Description: base cordinates for screen
+*/
+
 var Config;
 (function (Config) {
     class Screen {

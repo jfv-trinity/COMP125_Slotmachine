@@ -1,3 +1,12 @@
+/*
+File Name:app.js
+Author: Joseph Volpe
+ID: 301118010
+Site Name: null
+File Description: Core code for slot machine app that runs on HTML
+*/
+
+
 (function () {
     // Function scoped Variables
     let stage;
@@ -22,6 +31,7 @@
     //label values
     let money = 750;
     let bet = 0;
+    
      // Terrible code someone fix this.
     let winnings = 0;
     let jackpot = 10000;

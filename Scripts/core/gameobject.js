@@ -1,3 +1,11 @@
+/*
+File Name:gameobject.js
+Author: Joseph Volpe
+ID: 301118010
+Site Name: null
+File Description: methods to format objects on bitmap
+*/
+
 var Core;
 (function (Core) {
     class GameObject extends createjs.Bitmap {
